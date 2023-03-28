@@ -111,10 +111,17 @@ btnRoll.addEventListener('click', function() {
             switchPlayer();
           
         }
+      
     }
-})
+  
+}
+              
+)
+
 
 btnHold.addEventListener('click', function() {
+  
+  
   
     if (playing) {
 
@@ -136,14 +143,20 @@ btnHold.addEventListener('click', function() {
             document.querySelector(`.player--${activePlayer}`).classList.add('player--winner');
           
             document.querySelector(`.player--${activePlayer}`).classList.remove('player--active');
+          
+          
 
         } else {
            
           
             switchPlayer();
+          
         }
       
     }
   
-})
+}
+                         
+)
+
 btnNew.addEventListener('click', init);
