@@ -1,5 +1,14 @@
 # Pick-Game
 
+ ⛔RULES⛔ :
+ 
+  💥 The game has 2 players, each taking their turn
+  💥 Each turn, a player rolls a dice as many times as they wish. Each result is added to his ROUND score.
+  💥 But, if the player rolls the dice and rolls a 1, his ROUND score is lost. After that, it's the next player's turn
+  💥 The player can choose 'Hold', which means that his ROUND is added to the GLOBAL score. After that, it's the next player's turn.
+  💥 The first player to reach 50 points on GLOBAL wins the game.
+
+
 some snapshot of this project
 
 ![111](https://user-images.githubusercontent.com/90121062/228133699-4c19fe6c-ff24-482f-9f4b-3aa17add2c72.png)
@@ -12,3 +21,7 @@ some snapshot of this project
 
 ![444](https://user-images.githubusercontent.com/90121062/228133752-30b7bd29-095f-4ed3-907f-b743bec75ecb.png)
 
+
+
+
+This Basic DOM Project done by Following jonas schmedtmann's Complete Javascript Udemy Mater Course
